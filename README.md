@@ -1,6 +1,7 @@
 # Cycle-1-3-IMPLEMENTATION-OF-LINK-STATE-ROUTING-PROTOCOL-OSPF-
 # 🧪 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL (OSPF)
-## NAME : NITHIYASREE K
+## NAME : SANGAVI P
+## REG NO : 212222060242
 ## 🎯 AIM
 To connect computers in multiple networks using Open Shortest Path First (OSPF) Routing Protocol and to verify the connectivity between computers.
 
