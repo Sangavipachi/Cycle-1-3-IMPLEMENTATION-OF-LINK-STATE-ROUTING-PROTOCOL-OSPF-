@@ -1,6 +1,6 @@
 # Cycle-1-3-IMPLEMENTATION-OF-LINK-STATE-ROUTING-PROTOCOL-OSPF-
 # 🧪 IMPLEMENTATION OF LINK STATE ROUTING PROTOCOL (OSPF)
-
+## NAME : NITHIYASREE K
 ## 🎯 AIM
 To connect computers in multiple networks using Open Shortest Path First (OSPF) Routing Protocol and to verify the connectivity between computers.
 
@@ -35,10 +35,10 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 ---
 
 ## 🗺️ NETWORK DIAGRAM
-*(Insert diagram or screenshot from Packet Tracer)*
+<img width="1128" height="742" alt="image" src="https://github.com/user-attachments/assets/94b6f680-e235-47d6-835f-cd2a171968dd" />
+
 
 ---
-<img width="919" height="378" alt="image" src="https://github.com/user-attachments/assets/ca993ef1-ac39-413a-a79b-bd26f9cc0615" />
 
 
 ## 🧭 PROCEDURE
